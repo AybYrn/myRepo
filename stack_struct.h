@@ -1,5 +1,5 @@
 //
-// Stack Implementation, CTIS 152
+// Stack Implementation
 //
 #define _CRT_SECURE_NO_WARNINGS
 #define STACK_SIZE  100
